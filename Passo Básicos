@@ -1,15 +1,20 @@
 
+  ## - "Exportar formato PNG"
+      Export: 4x
+
+
+  ## - "Colocar colocar colunas para ajudar no alinhamento dos quadrados(apenas visual)."
+      * Selecione o frame desejado, cuidado para não selecionar o fundo.
+      * Lado direito Design -> Layout grid -> mudar para (Columns)
+      * Exemplo: Type: Left
+                 Count: 14 (Quantidade de colunas)
+                 Width: 32
+                 Offset: 32 (Muda o inicio da grid, se tiver um menu no canto esquerdo tem que mudar conforme o tamanho)
+                 Gutter: 32        
 
 
 
-
-
-
-
-
-
-
-## - "Dividir a quadrado em pedaços iguais."
+  ## - "Dividir a quadrado em pedaços iguais."
     * Vai em Comunidade procure (Split Shape), e instale.
     * Selecione o quadrado desejado, botão direito -> Plugins -> Split Shape
     * Exemplo: Columns: 2
@@ -18,7 +23,7 @@
                Margin: 0
 
 
-## - "Localizar Icones novos."
+  ## - "Localizar Icones novos."
     * Vai em Comunidade procure (Icon), e instale o icone desejado.
     * Para acessar os mais utilizados, vai a direita em cima -> Relevance -> Installs ("Pode esta diferente")
     * Mais utilizado (Iconify)
